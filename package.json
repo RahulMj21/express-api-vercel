@@ -1,0 +1,16 @@
+{
+    "name": "express-api-vercel",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "keywords": [],
+    "author": "Rahul Mondal",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2"
+    }
+}
